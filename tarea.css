@@ -1,0 +1,33 @@
+body 
+{
+  background-image: url('1imagen.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+html, body 
+{
+  height: 100%;
+  margin: 0;
+}
+h1
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+   
+}
+.contenedor 
+{
+  background-color: #79b0f8;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input, button 
+{
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
